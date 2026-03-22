@@ -14,6 +14,11 @@ const singers = [
         name: "Ashnikko",
         dob: "2/19/1996",
         songs: "Paint The Town Blue, Slumber Party, Daisy"
+    },
+    {
+        name: "Doja Cat",
+        dob: "10/21/1995",
+        songs: "Need To Know, You Right, Kiss Me More"
     }
 ];
 
